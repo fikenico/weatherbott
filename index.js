@@ -43,7 +43,7 @@ client.on('message', async message => {
   // Restante do código...
 });
 
-client.login('MTE5NjQ1MzA5MDMxMjg2MzkxNQ.GblGAx.V4guuAHZG4nPysbCAzIJajspxWj8-JsRg8O97U');
+client.login('TOKEN_DO_BOT');
 client.on('ready', () => {
     console.log(`Bot está online como ${client.user.tag}`);
   });
